@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#vscode
+.vscode
+
 # C extensions
 *.so
 
@@ -243,3 +246,9 @@ Temporary Items
 # Jupyther Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+#stale bot
+.project
+
+#node modules
+node_modules
